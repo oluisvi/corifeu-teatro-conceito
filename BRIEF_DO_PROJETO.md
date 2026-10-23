@@ -1,16 +1,18 @@
 # Brief do protótipo — Corifeu Escola de Teatro
 
 ## Fatos confirmados
-- O contato salvo como Rafael Zanette enviou “Olá! Boa tarde! Rafael aqui. Como posso ajudar?” depois de receber apenas “Boa tarde”.
-- A pergunta de prospecção específica para a Corifeu continua no campo de rascunho, não enviada.
-- O relatório de leads apresenta a Corifeu em Florianópolis, com aulas juvenil, adulto e 50+, além de teatro para empresas.
-- Presença informada: Instagram @corifeuteatro e Linktree https://linktr.ee/corifeuteatro.
+- Contato identificado como Rafael Zanette, responsável pelo atendimento no WhatsApp.
+- Rafael informou que as informações gerais da escola ficam no Linktree: https://linktr.ee/corifeuteatro.
+- A escola desenvolve aulas em dois espaços de Florianópolis: Trindade e Rio Tavares.
+- Modalidades informadas por Rafael: Juvenil (12 a 16 anos), Adulto (a partir de 17 anos) e 50+ (a partir de 50 anos).
+- Instagram: https://www.instagram.com/corifeuteatro/.
+- A pergunta sobre site, Linktree, modalidades e informações foi enviada; Rafael respondeu compartilhando as unidades e modalidades.
 
 ## Hipótese
-Uma página própria poderia apresentar modalidades, explicar para quem é cada turma, facilitar o contato e reunir informações atualizadas, sem substituir Instagram ou Linktree.
+Uma página própria pode organizar modalidades e unidades, ajudar cada pessoa a identificar a turma relevante e direcioná-la ao Linktree para confirmar horários, endereços exatos, vagas e contato. Ela complementaria os canais existentes, sem substituí-los.
 
 ## Escopo demonstrativo
-Uma página com três conceitos selecionáveis, modalidades conhecidas e CTAs para os canais públicos. Horários, unidades, fotos e disponibilidade devem ser confirmados. Não há agendamento ou inscrição funcional.
+Uma página com três conceitos selecionáveis, modalidades e unidades confirmadas, e CTAs para os canais públicos. Não há agendamento nem inscrição funcional. Fotos são ilustrativas.
 
 ## Próximo passo
-Identificar se Rafael representa a Corifeu, perguntar se o conceito faz sentido e descobrir horários, unidades, canal de inscrição, orçamento e pessoa decisora antes de propor escopo ou preço.
+Confirmar endereços exatos, horários, disponibilidade, canal de inscrição e interesse no conceito; entender escopo e orçamento antes de apresentar preço ou compromisso de entrega.
